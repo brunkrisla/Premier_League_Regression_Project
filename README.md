@@ -30,3 +30,24 @@ In the past studies have utilised a reductive approach and focused on isolating 
 6. Test the accuracy of the model by plotting the predicted points vs the actual points. 
 
 7. Compare the features selected for the model with previous studies
+
+
+
+
+### References
+
+Collet, C., 2012. The possession game? A comparative analysis of ball retention and team success in European and international football, 2007–2010. Journal of Sports Sciences, 31(2), pp.123-136.
+
+Deloitte United Kingdom. 2021. COVID-19, Football & Digital: 2020/21 Season & Beyond. [online] Available at: <https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/covid-19-football-and-digital-2020-21-season-and-beyond.html> [Accessed 11 January 2021].
+
+Frost, J., 2021. Multicollinearity In Regression Analysis: Problems, Detection, And Solutions - Statistics By Jim. [online] Statistics By Jim. Available at: <https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/> [Accessed 22 December 2021].
+
+Impellizzeri, F., Rampinini, E., Castagna, C., Bishop, D., Ferrari Bravo, D., Tibaudi, A. and Wisloff, U., 2008. Validity of a Repeated-Sprint Test for Football. International Journal of Sports Medicine, 29(11), pp.899-905.
+
+Lago-Peñas, C., Lago-Ballesteros, J. and Rey, E., 2011. Differences in performance indicators between winning and losing teams in the UEFA Champions League. Journal of Human Kinetics, 27(1).
+
+Medium. 2021. Stopping Stepwise: Why Stepwise Selection Is Bad And What You Should Use Instead. [online] Available at: <https://towardsdatascience.com/stopping-stepwise-why-stepwise-selection-is-bad-and-what-you-should-use-instead-90818b3f52df> [Accessed 20 December 2021].
+
+McLean, S., Salmon, P., Gorman, A., Read, G. and Solomon, C., 2017. What’s in a game? A systems approach to enhancing performance analysis in football. PLOS ONE, 12(2), p.e0172565.
+
+Oberstone, J., 2009. Differentiating the Top English Premier League Football Clubs from the Rest of the Pack: Identifying the Keys to Success. Journal of Quantitative Analysis in Sports, 5(3).
