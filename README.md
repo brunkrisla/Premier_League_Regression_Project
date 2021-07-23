@@ -31,7 +31,10 @@ In the past studies have utilised a reductive approach and focused on isolating 
 
 7. Compare the features selected for the model with previous studies
 
+### Dataset
 
+I decided to obtain my datasets from Fbref.com as the datasets contained comprehensive descriptions of the individual different pitch actions relating to; goalkeeping, passing, shooting, and defending.I chose to use the 2018-2019 season's data, as there were less (economical/environmental)factors that could affect the team performance, like the most recent seasons being disrupted due to Covid. 
+- https://fbref.com/en/comps/9/1889/2018-2019-Premier-League-Stats
 
 
 ### References
