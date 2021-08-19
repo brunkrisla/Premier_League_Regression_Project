@@ -1,5 +1,5 @@
 # Premier_League_Regression_Project
-Explorative Regression Analysis of the variables affecting points obtained in the 2018-19 Premier League Season
+Explorative regression analysis of the variables affecting points obtained in the 2018-19 Premier League Season
 
 ### Context
 In many sports, like Tennis, Golf, Basketball, and American Football, the repercussions of poor performance can be detrimental. However, in comparison to Football, the implications of poor performance can have a more lasting effect on the future of football teams.
